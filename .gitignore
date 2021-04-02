@@ -1,0 +1,7 @@
+# general
+log
+*~
+.tags*
+*.sublime-workspace
+.DS_Store
+/.idea/
